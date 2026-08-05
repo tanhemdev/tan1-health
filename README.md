@@ -5,11 +5,13 @@
 ---
 
 <p align="center">
-  <img src="assets/twins-childhood.jpg" width="400" alt="Tanya and Tanisha as kids" />
-  <img src="assets/tanisha-and-tanya.jpg" width="400" alt="Tanya and Tanisha today" />
+  <img <img width="1280" height="1024" alt="36db6bbc-88b7-4163-9121-3cd88db8dd3c 2" src="https://github.com/user-attachments/assets/79b414c3-63c6-4375-80bb-255398d46278" />
+  Tanisha and I as kids" 
+  <img <img width="3120" height="4160" alt="IMG_5377" src="https://github.com/user-attachments/assets/674f9c51-abbe-4698-9d4b-063dc818cf94" />
+Tanya and Tanisha today" 
 </p>
 
-## why i built this
+## Why I built this
 
 My twin sister Tanisha was diagnosed with Type 1 diabetes. I remember the exact moment it changed everything - not just for her, but for everyone around her. My family and I showed up in every way we knew how, but there was this quiet truth none of us could get around: no matter how present we were, we would never fully understand what she was feeling. The 3am lows. The mental math before every meal. Changing a CGM sensor every 13 days and bracing for the sting each time.
 
@@ -27,7 +29,7 @@ Presented at CalHacks Health and Stanford TreeHacks to 200+ attendees combined.
 
 ---
 
-## how it works
+## How it works
 
 1. **CGM data lands** - Dexcom G6/G7 API pushes 5-minute interval readings to our ingestion service
 2. **feature extraction** - we compute rolling averages, rate of change, time-in-range windows, and meal proximity flags
@@ -66,4 +68,4 @@ Presented at CalHacks Health and Stanford TreeHacks to 200+ attendees combined.
 
 MIT - use it, fork it, adapt it for your family. if you do, let me know how it goes.
 
-built by [tanya hemdev](https://github.com/tanhemdev) - UC Berkeley '26 - cognitive science + data science
+built by [tanya hemdev](https://github.com/tanhemdev)
