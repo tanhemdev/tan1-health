@@ -8,7 +8,7 @@
 
 ## problem statement
 
-my dad got diagnosed with Type 2 diabetes last year. his endocrinologist put him on a Dexcom G6, and suddenly he was getting glucose readings every 5 minutes  -  288 data points per day  -  with zero context on what any of them meant.
+A dad got diagnosed with Type 2 diabetes last year. his endocrinologist put him on a Dexcom G6, and suddenly he was getting glucose readings every 5 minutes  -  288 data points per day  -  with zero context on what any of them meant.
 
 he'd see "247 mg/dL" and text me: *"is this bad?"* he'd wake up at 3am with a low alarm blaring and not know if he should eat glucose tabs or just go back to sleep. my mom, who's his primary caregiver, was checking the Dexcom Follow app obsessively but couldn't tell the difference between a post-meal spike (normal) and a sustained high that actually needed intervention.
 
