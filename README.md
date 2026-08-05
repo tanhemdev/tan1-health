@@ -8,7 +8,7 @@
   <img <img width="1280" height="1024" alt="36db6bbc-88b7-4163-9121-3cd88db8dd3c 2" src="https://github.com/user-attachments/assets/79b414c3-63c6-4375-80bb-255398d46278" />
   Tanisha and I as kids" 
   <img <img width="3120" height="4160" alt="IMG_5377" src="https://github.com/user-attachments/assets/674f9c51-abbe-4698-9d4b-063dc818cf94" />
-Tanya and Tanisha today" 
+ Tanisha and I today
 </p>
 
 ## Why I built this
