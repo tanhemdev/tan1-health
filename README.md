@@ -23,7 +23,6 @@ I interviewed over **80 people** - pre-teens, college students, parents, senior 
 
 The technical side: TAN-1 ingests continuous glucose monitor data, runs it through a risk classification model (92% accuracy across 10K+ readings), and sends real-time alerts to caregivers in plain english. Not "glucose: 247 mg/dL" - instead: "Tanisha's blood sugar has been high for 2 hours. This might need attention. [Acknowledge]"
 
-Presented at CalHacks Health and Stanford TreeHacks to 200+ attendees combined.
 
 *To Tanisha - this journey is not even 1% of what you go through every single day. But if it helps even one person feel a little less alone, I think it's worth everything.*
 
